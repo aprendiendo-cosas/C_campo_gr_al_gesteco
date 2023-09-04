@@ -3,8 +3,30 @@
 
 > + **_Versión_**: 2022-2023
 > + **_Asignatura (grado)_**: Gestión de ecosistemas (CCAA)
+> + **_Autores_**: Elisa Oteros Rozas (elisa.oterosrozas@gmail.com), Cristina Acosta Muñoz (cristina.acostamunoz@gmail.com), Curro Bonet García (fjbonet@uco.es)
+> + **_Fechas_**: 18 a 21 de octubre de 2022.
+
+![portada](https://github.com/aprendiendo-cosas/C_campo_gr_al_gesteco/blob/main/imagenes/portada.jpeg?raw=true)
 
 
+## Objetivos docentes
+La finalidad de este acto docente es mostrar a los estudiantes la componente práctica del concepto de gestión de ecosistemas considerando sus múltiples fuentes de incertidumbre. Los objetivos más específicos son los siguientes y se agrupan en dos tipos:
++ Disciplinares (tienen que ver con la ciencia de la gestión de los ecosistemas):
+  + Conocer marcos conceptuales teóricos útiles para la gestión de ecosistemas.
+  + Transferir el conocimiento sobre la teoría ecológica a la realidad y constatar el ejercicio de reducción de complejidad que ponemos en práctica para construir teorías.
+  + Experimentar de primera mano la complejidad de la naturaleza.
+  + Experimentar en campo los retos de la gestión del medio natural.
+  + Adquirir hábito en interpretar la realidad compleja a la luz del conocimiento previo existente sobre (socio)ecología. 
+  + Entender en "cabeza propia" la diferencia entre teoría y práctica.
+
++ Instrumentales (relacionados con competencias transversales):
+
+  + Mejorar las habilidades de trabajo en equipo.
+  + Pasar unos días al aire libre con colegas y amigos.
+  + Disfrutar de la naturaleza.
+  + Desconectar un poco de la rutina del día a día...
+
+  
 
 ## Itinerario 
 
@@ -16,7 +38,7 @@ Puedes hacer zoom en el mapa y acercarte a todas las paradas que realizaremos.
 
  ## Índice de paradas de interés
 
-La siguiente lista muestra las paradas que realizaremos cronológicamente. También se indica el grupo de estudiantes que se encargará en cada caso de su estudio en profundidad. Por último, en cada parada se indica el hagstag que usaremos todos los estudiantes para comentar lo que consideremos de interés en el grupo de Telegram que hemos creado al efecto ([aquí](https://t.me/+DPJmAHdPcDZlZGNk) puedes acceder si aún no lo has hecho). Los enlaces que hay sobre el nombre de la parada llevan a una página en la que se muestran los detalles de la misma:
+La siguiente lista muestra las paradas que realizaremos cronológicamente. También se indica el grupo de estudiantes que se encargará en cada caso de su estudio en profundidad. Por último, en cada parada se indica el hagstag que usaremos todos los estudiantes para comentar lo que consideremos de interés en el grupo de Telegram que hemos creado al efecto ([aquí](https://t.me/+DPJmAHdPcDZlZGNk) puedes acceder si aún no lo has hecho). Los enlaces que hay sobre el nombre de la parada llevan a una página en la que se muestran los detalles de la misma. En dichas páginas también se incluyen los videos que los estudiantes hicieron después de la salida. Es decir, en las siguientes páginas se muestra el punto de partida previo a la salida y la devolución que hicieron los estudiantes tras la misma:
 
 + **Día 18**
   + *[Ganadería y agricultura regenerativas para la mitigación y adaptación al cambio climático: diálogo de saberes en la almendrehesa](https://aprendiendo-cosas.github.io/C_agrogana_rege_gesteco/guion_agrogana_rege_gesteco.html)*. Grupo 1. **#agrogana_rege**
