@@ -6,7 +6,7 @@
 > + **_Autores_**: Elisa Oteros Rozas (elisa.oterosrozas@gmail.com), Cristina Acosta Muñoz (cristina.acostamunoz@gmail.com), Curro Bonet García (fjbonet@uco.es)
 > + **_Fechas_**: 18 a 21 de octubre de 2022.
 
-![portada](https://github.com/aprendiendo-cosas/C_campo_gr_al_gesteco/blob/main/imagenes/portada.jpeg?raw=true)
+![portada](https://github.com/aprendiendo-cosas/C_campo_gr_al_gesteco/blob/main/images/portada.jpeg?raw=true)
 
 
 ## Objetivos docentes
