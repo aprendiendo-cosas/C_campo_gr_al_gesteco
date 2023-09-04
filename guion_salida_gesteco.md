@@ -6,7 +6,7 @@
 > + **_Autores_**: Elisa Oteros Rozas (elisa.oterosrozas@gmail.com), Cristina Acosta Muñoz (cristina.acostamunoz@gmail.com), Curro Bonet García (fjbonet@uco.es)
 > + **_Fechas_**: 18 a 21 de octubre de 2022.
 
-![portada](https://github.com/aprendiendo-cosas/C_campo_gr_al_gesteco/blob/main/images/portada.jpeg?raw=true)
+![portada](https://github.com/aprendiendo-cosas/C_campo_gr_al_gesteco/blob/2022_2023/images/portada.jpeg?raw=true)
 
 
 ## Objetivos docentes
@@ -33,6 +33,12 @@ La finalidad de este acto docente es mostrar a los estudiantes la componente pr�
 <iframe src="https://www.google.com/maps/d/embed?mid=1fyhYE_bcZNpKxWclEh3UtXIFrRzNGR4&hl=es&ehbc=2E312F" width="640" height="580"></iframe>
 
 Puedes hacer zoom en el mapa y acercarte a todas las paradas que realizaremos.
+
+
+
+## Trabajo a realizar por los estudiantes
+
+La clase se divide en grupos de 5-6 personas. Cada grupo se encarga de preparar un vídeo en el que se describen los aspectos más importantes de las paradas que se describen a continuación. En [este](https://rawcdn.githack.com/aprendiendo-cosas/A_video_gesteco/2022_2023/guion_video_gesteco.html) guión se muestran las instrucciones detalladas para hacer esta actividad. 
 
 
 
